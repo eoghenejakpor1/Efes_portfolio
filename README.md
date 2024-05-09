@@ -9,7 +9,7 @@ My passion for data started 7 years ago when I was promoted to a new role as a P
 One of my proudest achievements was saving 4 days spent on manual reports by downloading data files from the ERP software in CSV formats, loading the data into Excel and creating a data model that helped to produce reports in a few hours.
 # [Project 1: Twitter/X Social Media Engagement Optimization Strategy to maximize growth and following](https://github.com/eoghenejakpor1/Social-Media-Content-Strategy-Project.git)
 ...
-# Extracted CSV data from Twitter/X portal
-# Loaded, cleaned & transfored using Excels Power Query
-# Analyzed data using time-series methods and data visualization 
-# Used the output to summarize current position and recommendations for future growth based on audience preferences
+* Extracted CSV data from Twitter/X portal
+* Loaded, cleaned & transfored using Excels Power Query
+* Analyzed data using time-series methods and data visualization 
+* Used the output to summarize current position and recommendations for future growth based on audience preferences
